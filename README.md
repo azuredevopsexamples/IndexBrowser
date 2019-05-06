@@ -1,5 +1,7 @@
 # Index Browser
 
+[![Build Status](https://dev.azure.com/devopsbuild2019/indexbrowser/_apis/build/status/IndexBrowser?branchName=master)](https://dev.azure.com/devopsbuild2019/indexbrowser/_build/latest?definitionId=11?branchName=master)
+
 A simple Windows application to display the contents of a Git repository's
 index.  You can open a repository and display the file contents in the index
 (the "stage").  By default, you view the files that are staged as the next
