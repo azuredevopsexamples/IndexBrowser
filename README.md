@@ -26,3 +26,5 @@ This is a .NET Core 3 application, utilizing WPF and
 
 This application is Copyright &copy; Edward Thomson and available under
 the [MIT license](LICENSE).
+
+Hello
