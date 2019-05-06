@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/devopsbuild20190127/1dce1ccd-2b16-4f95-a77f-bebb687e939a/f6472dde-af75-4e3a-bbd2-d29337e167a5/_apis/work/boardbadge/f7c59ed9-7537-44f2-b367-7a5caa2437d2)](https://dev.azure.com/devopsbuild20190127/1dce1ccd-2b16-4f95-a77f-bebb687e939a/_boards/board/t/f6472dde-af75-4e3a-bbd2-d29337e167a5/Microsoft.RequirementCategory)
 # Index Browser
 
 A simple Windows application to display the contents of a Git repository's
